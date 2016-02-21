@@ -1,0 +1,5 @@
+1. Set up Git - use this tutorial (https://help.github.com/articles/set-up-git/). After this you should have cloned the repository locally on your machine.
+
+2. Create a folder named Week1 in the folder resulted after clone and commit it. Inside the Week1 folder create a text file called Week1Description.txt and copy inside it all the tasks from Week1 and then commit it.
+
+3. Install VisualStudio and make a HelloWorld program as explained in movie 2 and movie 3 from here (https://channel9.msdn.com/Series/C-Fundamentals-for-Absolute-Beginners). Copy the folder of the HelloWorld program inside Week1 folder and commit.
