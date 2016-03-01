@@ -1,0 +1,5 @@
+c:\users\iza\documents\visual studio 2015\Projects\UnderstandingArraysCSF10\UnderstandingArraysCSF10\bin\Debug\UnderstandingArraysCSF10.exe.config
+c:\users\iza\documents\visual studio 2015\Projects\UnderstandingArraysCSF10\UnderstandingArraysCSF10\bin\Debug\UnderstandingArraysCSF10.exe
+c:\users\iza\documents\visual studio 2015\Projects\UnderstandingArraysCSF10\UnderstandingArraysCSF10\bin\Debug\UnderstandingArraysCSF10.pdb
+c:\users\iza\documents\visual studio 2015\Projects\UnderstandingArraysCSF10\UnderstandingArraysCSF10\obj\Debug\UnderstandingArraysCSF10.exe
+c:\users\iza\documents\visual studio 2015\Projects\UnderstandingArraysCSF10\UnderstandingArraysCSF10\obj\Debug\UnderstandingArraysCSF10.pdb

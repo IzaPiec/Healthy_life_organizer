@@ -1,0 +1,6 @@
+c:\users\iza\documents\visual studio 2015\Projects\CSFTutorialE06\CSFTutorialE06\bin\Debug\CSFTutorialE06.exe.config
+c:\users\iza\documents\visual studio 2015\Projects\CSFTutorialE06\CSFTutorialE06\bin\Debug\CSFTutorialE06.exe
+c:\users\iza\documents\visual studio 2015\Projects\CSFTutorialE06\CSFTutorialE06\bin\Debug\CSFTutorialE06.pdb
+c:\users\iza\documents\visual studio 2015\Projects\CSFTutorialE06\CSFTutorialE06\obj\Debug\CSFTutorialE06.csprojResolveAssemblyReference.cache
+c:\users\iza\documents\visual studio 2015\Projects\CSFTutorialE06\CSFTutorialE06\obj\Debug\CSFTutorialE06.exe
+c:\users\iza\documents\visual studio 2015\Projects\CSFTutorialE06\CSFTutorialE06\obj\Debug\CSFTutorialE06.pdb

@@ -1,0 +1,6 @@
+c:\users\iza\documents\visual studio 2015\Projects\DecisionsCSFE07\DecisionsCSFE07\bin\Debug\DecisionsCSFE07.exe.config
+c:\users\iza\documents\visual studio 2015\Projects\DecisionsCSFE07\DecisionsCSFE07\bin\Debug\DecisionsCSFE07.exe
+c:\users\iza\documents\visual studio 2015\Projects\DecisionsCSFE07\DecisionsCSFE07\bin\Debug\DecisionsCSFE07.pdb
+c:\users\iza\documents\visual studio 2015\Projects\DecisionsCSFE07\DecisionsCSFE07\obj\Debug\DecisionsCSFE07.csprojResolveAssemblyReference.cache
+c:\users\iza\documents\visual studio 2015\Projects\DecisionsCSFE07\DecisionsCSFE07\obj\Debug\DecisionsCSFE07.exe
+c:\users\iza\documents\visual studio 2015\Projects\DecisionsCSFE07\DecisionsCSFE07\obj\Debug\DecisionsCSFE07.pdb

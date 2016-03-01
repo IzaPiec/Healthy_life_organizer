@@ -1,0 +1,6 @@
+c:\users\iza\documents\visual studio 2015\Projects\ForIterationsCSF09\ForIterationsCSF09\bin\Debug\ForIterationsCSF09.exe.config
+c:\users\iza\documents\visual studio 2015\Projects\ForIterationsCSF09\ForIterationsCSF09\bin\Debug\ForIterationsCSF09.exe
+c:\users\iza\documents\visual studio 2015\Projects\ForIterationsCSF09\ForIterationsCSF09\bin\Debug\ForIterationsCSF09.pdb
+c:\users\iza\documents\visual studio 2015\Projects\ForIterationsCSF09\ForIterationsCSF09\obj\Debug\ForIterationsCSF09.csprojResolveAssemblyReference.cache
+c:\users\iza\documents\visual studio 2015\Projects\ForIterationsCSF09\ForIterationsCSF09\obj\Debug\ForIterationsCSF09.exe
+c:\users\iza\documents\visual studio 2015\Projects\ForIterationsCSF09\ForIterationsCSF09\obj\Debug\ForIterationsCSF09.pdb

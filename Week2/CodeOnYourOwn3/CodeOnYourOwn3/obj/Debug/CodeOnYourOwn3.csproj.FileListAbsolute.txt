@@ -1,0 +1,6 @@
+c:\users\iza\documents\visual studio 2015\Projects\CodeOnYourOwn3\CodeOnYourOwn3\bin\Debug\CodeOnYourOwn3.exe.config
+c:\users\iza\documents\visual studio 2015\Projects\CodeOnYourOwn3\CodeOnYourOwn3\bin\Debug\CodeOnYourOwn3.exe
+c:\users\iza\documents\visual studio 2015\Projects\CodeOnYourOwn3\CodeOnYourOwn3\bin\Debug\CodeOnYourOwn3.pdb
+c:\users\iza\documents\visual studio 2015\Projects\CodeOnYourOwn3\CodeOnYourOwn3\obj\Debug\CodeOnYourOwn3.csprojResolveAssemblyReference.cache
+c:\users\iza\documents\visual studio 2015\Projects\CodeOnYourOwn3\CodeOnYourOwn3\obj\Debug\CodeOnYourOwn3.exe
+c:\users\iza\documents\visual studio 2015\Projects\CodeOnYourOwn3\CodeOnYourOwn3\obj\Debug\CodeOnYourOwn3.pdb
