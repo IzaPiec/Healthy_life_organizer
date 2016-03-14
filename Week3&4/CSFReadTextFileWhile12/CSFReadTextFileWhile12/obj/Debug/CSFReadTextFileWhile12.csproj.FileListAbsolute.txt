@@ -1,0 +1,6 @@
+c:\users\iza\documents\visual studio 2015\Projects\CSFReadTextFileWhile12\CSFReadTextFileWhile12\bin\Debug\CSFReadTextFileWhile12.exe.config
+c:\users\iza\documents\visual studio 2015\Projects\CSFReadTextFileWhile12\CSFReadTextFileWhile12\bin\Debug\CSFReadTextFileWhile12.exe
+c:\users\iza\documents\visual studio 2015\Projects\CSFReadTextFileWhile12\CSFReadTextFileWhile12\bin\Debug\CSFReadTextFileWhile12.pdb
+c:\users\iza\documents\visual studio 2015\Projects\CSFReadTextFileWhile12\CSFReadTextFileWhile12\obj\Debug\CSFReadTextFileWhile12.exe
+c:\users\iza\documents\visual studio 2015\Projects\CSFReadTextFileWhile12\CSFReadTextFileWhile12\obj\Debug\CSFReadTextFileWhile12.pdb
+c:\users\iza\documents\visual studio 2015\Projects\CSFReadTextFileWhile12\CSFReadTextFileWhile12\bin\Debug\Values.txt

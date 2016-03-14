@@ -1,0 +1,6 @@
+c:\users\iza\documents\visual studio 2015\Projects\CodeOnYourOwn9\CodeOnYourOwn9\bin\Debug\CodeOnYourOwn9.exe.config
+c:\users\iza\documents\visual studio 2015\Projects\CodeOnYourOwn9\CodeOnYourOwn9\bin\Debug\CodeOnYourOwn9.exe
+c:\users\iza\documents\visual studio 2015\Projects\CodeOnYourOwn9\CodeOnYourOwn9\bin\Debug\CodeOnYourOwn9.pdb
+c:\users\iza\documents\visual studio 2015\Projects\CodeOnYourOwn9\CodeOnYourOwn9\obj\Debug\CodeOnYourOwn9.csprojResolveAssemblyReference.cache
+c:\users\iza\documents\visual studio 2015\Projects\CodeOnYourOwn9\CodeOnYourOwn9\obj\Debug\CodeOnYourOwn9.exe
+c:\users\iza\documents\visual studio 2015\Projects\CodeOnYourOwn9\CodeOnYourOwn9\obj\Debug\CodeOnYourOwn9.pdb

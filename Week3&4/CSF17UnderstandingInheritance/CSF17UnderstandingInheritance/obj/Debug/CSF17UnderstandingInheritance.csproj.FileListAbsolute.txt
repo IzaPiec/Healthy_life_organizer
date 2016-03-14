@@ -1,0 +1,6 @@
+c:\users\iza\documents\visual studio 2015\Projects\CSF17UnderstandingInheritance\CSF17UnderstandingInheritance\bin\Debug\CSF17UnderstandingInheritance.exe.config
+c:\users\iza\documents\visual studio 2015\Projects\CSF17UnderstandingInheritance\CSF17UnderstandingInheritance\bin\Debug\CSF17UnderstandingInheritance.exe
+c:\users\iza\documents\visual studio 2015\Projects\CSF17UnderstandingInheritance\CSF17UnderstandingInheritance\bin\Debug\CSF17UnderstandingInheritance.pdb
+c:\users\iza\documents\visual studio 2015\Projects\CSF17UnderstandingInheritance\CSF17UnderstandingInheritance\obj\Debug\CSF17UnderstandingInheritance.csprojResolveAssemblyReference.cache
+c:\users\iza\documents\visual studio 2015\Projects\CSF17UnderstandingInheritance\CSF17UnderstandingInheritance\obj\Debug\CSF17UnderstandingInheritance.exe
+c:\users\iza\documents\visual studio 2015\Projects\CSF17UnderstandingInheritance\CSF17UnderstandingInheritance\obj\Debug\CSF17UnderstandingInheritance.pdb

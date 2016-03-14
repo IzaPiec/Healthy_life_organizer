@@ -1,0 +1,6 @@
+c:\users\iza\documents\visual studio 2015\Projects\CSFHelperMethod11\CSFHelperMethod11\bin\Debug\CSFHelperMethod11.exe.config
+c:\users\iza\documents\visual studio 2015\Projects\CSFHelperMethod11\CSFHelperMethod11\bin\Debug\CSFHelperMethod11.exe
+c:\users\iza\documents\visual studio 2015\Projects\CSFHelperMethod11\CSFHelperMethod11\bin\Debug\CSFHelperMethod11.pdb
+c:\users\iza\documents\visual studio 2015\Projects\CSFHelperMethod11\CSFHelperMethod11\obj\Debug\CSFHelperMethod11.csprojResolveAssemblyReference.cache
+c:\users\iza\documents\visual studio 2015\Projects\CSFHelperMethod11\CSFHelperMethod11\obj\Debug\CSFHelperMethod11.exe
+c:\users\iza\documents\visual studio 2015\Projects\CSFHelperMethod11\CSFHelperMethod11\obj\Debug\CSFHelperMethod11.pdb

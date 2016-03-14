@@ -1,0 +1,5 @@
+c:\users\iza\documents\visual studio 2015\Projects\CSFStrings13\CSFStrings13\bin\Debug\CSFStrings13.exe.config
+c:\users\iza\documents\visual studio 2015\Projects\CSFStrings13\CSFStrings13\bin\Debug\CSFStrings13.exe
+c:\users\iza\documents\visual studio 2015\Projects\CSFStrings13\CSFStrings13\bin\Debug\CSFStrings13.pdb
+c:\users\iza\documents\visual studio 2015\Projects\CSFStrings13\CSFStrings13\obj\Debug\CSFStrings13.exe
+c:\users\iza\documents\visual studio 2015\Projects\CSFStrings13\CSFStrings13\obj\Debug\CSFStrings13.pdb

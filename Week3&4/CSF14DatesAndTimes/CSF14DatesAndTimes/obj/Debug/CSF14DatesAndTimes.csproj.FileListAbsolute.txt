@@ -1,0 +1,6 @@
+c:\users\iza\documents\visual studio 2015\Projects\CSF14DatesAndTimes\CSF14DatesAndTimes\bin\Debug\CSF14DatesAndTimes.exe.config
+c:\users\iza\documents\visual studio 2015\Projects\CSF14DatesAndTimes\CSF14DatesAndTimes\bin\Debug\CSF14DatesAndTimes.exe
+c:\users\iza\documents\visual studio 2015\Projects\CSF14DatesAndTimes\CSF14DatesAndTimes\bin\Debug\CSF14DatesAndTimes.pdb
+c:\users\iza\documents\visual studio 2015\Projects\CSF14DatesAndTimes\CSF14DatesAndTimes\obj\Debug\CSF14DatesAndTimes.csprojResolveAssemblyReference.cache
+c:\users\iza\documents\visual studio 2015\Projects\CSF14DatesAndTimes\CSF14DatesAndTimes\obj\Debug\CSF14DatesAndTimes.exe
+c:\users\iza\documents\visual studio 2015\Projects\CSF14DatesAndTimes\CSF14DatesAndTimes\obj\Debug\CSF14DatesAndTimes.pdb

@@ -1,0 +1,6 @@
+c:\users\iza\documents\visual studio 2015\Projects\CSF15SimpleClasses\CSF15SimpleClasses\bin\Debug\CSF15SimpleClasses.exe.config
+c:\users\iza\documents\visual studio 2015\Projects\CSF15SimpleClasses\CSF15SimpleClasses\bin\Debug\CSF15SimpleClasses.exe
+c:\users\iza\documents\visual studio 2015\Projects\CSF15SimpleClasses\CSF15SimpleClasses\bin\Debug\CSF15SimpleClasses.pdb
+c:\users\iza\documents\visual studio 2015\Projects\CSF15SimpleClasses\CSF15SimpleClasses\obj\Debug\CSF15SimpleClasses.csprojResolveAssemblyReference.cache
+c:\users\iza\documents\visual studio 2015\Projects\CSF15SimpleClasses\CSF15SimpleClasses\obj\Debug\CSF15SimpleClasses.exe
+c:\users\iza\documents\visual studio 2015\Projects\CSF15SimpleClasses\CSF15SimpleClasses\obj\Debug\CSF15SimpleClasses.pdb

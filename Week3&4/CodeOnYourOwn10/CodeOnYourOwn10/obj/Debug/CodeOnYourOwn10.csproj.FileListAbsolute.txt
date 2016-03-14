@@ -1,0 +1,5 @@
+c:\users\iza\documents\visual studio 2015\Projects\CodeOnYourOwn10\CodeOnYourOwn10\bin\Debug\CodeOnYourOwn10.exe.config
+c:\users\iza\documents\visual studio 2015\Projects\CodeOnYourOwn10\CodeOnYourOwn10\bin\Debug\CodeOnYourOwn10.exe
+c:\users\iza\documents\visual studio 2015\Projects\CodeOnYourOwn10\CodeOnYourOwn10\bin\Debug\CodeOnYourOwn10.pdb
+c:\users\iza\documents\visual studio 2015\Projects\CodeOnYourOwn10\CodeOnYourOwn10\obj\Debug\CodeOnYourOwn10.exe
+c:\users\iza\documents\visual studio 2015\Projects\CodeOnYourOwn10\CodeOnYourOwn10\obj\Debug\CodeOnYourOwn10.pdb

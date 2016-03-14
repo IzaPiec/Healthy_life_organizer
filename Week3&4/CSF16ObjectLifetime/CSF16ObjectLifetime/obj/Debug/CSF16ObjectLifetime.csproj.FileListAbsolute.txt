@@ -1,0 +1,6 @@
+c:\users\iza\documents\visual studio 2015\Projects\CSF16ObjectLifetime\CSF16ObjectLifetime\bin\Debug\CSF16ObjectLifetime.exe.config
+c:\users\iza\documents\visual studio 2015\Projects\CSF16ObjectLifetime\CSF16ObjectLifetime\bin\Debug\CSF16ObjectLifetime.exe
+c:\users\iza\documents\visual studio 2015\Projects\CSF16ObjectLifetime\CSF16ObjectLifetime\bin\Debug\CSF16ObjectLifetime.pdb
+c:\users\iza\documents\visual studio 2015\Projects\CSF16ObjectLifetime\CSF16ObjectLifetime\obj\Debug\CSF16ObjectLifetime.csprojResolveAssemblyReference.cache
+c:\users\iza\documents\visual studio 2015\Projects\CSF16ObjectLifetime\CSF16ObjectLifetime\obj\Debug\CSF16ObjectLifetime.exe
+c:\users\iza\documents\visual studio 2015\Projects\CSF16ObjectLifetime\CSF16ObjectLifetime\obj\Debug\CSF16ObjectLifetime.pdb

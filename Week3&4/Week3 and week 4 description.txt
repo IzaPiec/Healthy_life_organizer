@@ -1,0 +1,15 @@
+Continuing with C# tutorials and practicing on C#
+
+Reading ASP.NET tutorials
+
+Sample application (from a tutorial) developed in ASP.NET
+
+CodeOnYourOwn#7 (Operator overloading): Create a new project. Define the class IrationalNumber. This class has two members: two integers called real and unreal. Create a constructor that receives two parameters and completes the members. Define as well public methods or properties for setting and accessing the values of the private members real and unreal. Overload the operators +, - and * for this class. Hint: http://www.tutorialspoint.com/csharp/csharp_operator_overloading.htm. In your Main method define two objects of the type IrationalNumbers and assign them values for their members. Then, call the overloaded operators and print to the terminal the results of the operations.
+
+CodeOnYourOwn#8 (Classes #3: Inheritance): Create a new project. Define a class called Circle. The Circle class has a private member called radius. Define an empty constructor that sets the radius to 1 and a constructor that receives the radius as a parameter and sets the member to the received value. Define a public method Area() that returns the area of the circle. Now define a class called Cylinder that inherits the class Circle. The cylinder has a private member called height. Create two constructors: an empty one that first calls the invokes the constructor of the superclass (Hint: base()) and then sets the height to 1 and another constructor that receives the height as parameter, first it calls the constructor of the superclass, then it sets the height accordingly. Create a public method Volume() that uses the Area() method to compute the volume of the cylinder. In your Main method instantiate a Circle and a Cylinder by using the second constructor for both and then call the method Area for the Circle and Volume for the Cylinder and print the results.
+
+CodeOnYourOwn#9 (Nullables): Create a class called Utils. Inside it create some public static methods: Count that takes as parameter an ArrayList<double?> and returns the number of non-nullable values from it, Minimum which has as return type double? and returns the minimum of the non-nullable values from the ArrayList<double?> that he receives or null if all the values are null, Maximum, Average and Sum implemented in the same principle as Minimum. In your Main method instantiate two ArrayList<double?> one with only null values and the other with null and non-null values. Call each method from the Utils class and print its result.
+
+CodeOnYourOwn#10 (Passing parameters as references): In the same class as your Main method define a public static void method called Swap. This method receives two references of integers as parameters. (Hint: public static void Swap(ref int x, ref int y) With the help of a local auxiliary variable it makes x has the value of y and y have the value of x. In your Main method define two integers and call the Swap method on them. (Hint: int x = 5, y = 3; Swap(ref x, ref y)) Print the new values of x and y.
+
+Create a folder named Week3&4 in which you will place the work done this week.
