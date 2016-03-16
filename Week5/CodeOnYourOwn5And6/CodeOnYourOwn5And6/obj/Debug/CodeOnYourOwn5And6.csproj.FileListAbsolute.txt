@@ -1,0 +1,6 @@
+c:\users\iza\documents\visual studio 2015\Projects\CodeOnYourOwn5And6\CodeOnYourOwn5And6\bin\Debug\CodeOnYourOwn5And6.exe.config
+c:\users\iza\documents\visual studio 2015\Projects\CodeOnYourOwn5And6\CodeOnYourOwn5And6\obj\Debug\CodeOnYourOwn5And6.csprojResolveAssemblyReference.cache
+c:\Users\Iza\Documents\Visual Studio 2015\Projects\CodeOnYourOwn5And6\CodeOnYourOwn5And6\bin\Debug\CodeOnYourOwn5And6.exe
+c:\Users\Iza\Documents\Visual Studio 2015\Projects\CodeOnYourOwn5And6\CodeOnYourOwn5And6\bin\Debug\CodeOnYourOwn5And6.pdb
+c:\Users\Iza\Documents\Visual Studio 2015\Projects\CodeOnYourOwn5And6\CodeOnYourOwn5And6\obj\Debug\CodeOnYourOwn5And6.exe
+c:\Users\Iza\Documents\Visual Studio 2015\Projects\CodeOnYourOwn5And6\CodeOnYourOwn5And6\obj\Debug\CodeOnYourOwn5And6.pdb
