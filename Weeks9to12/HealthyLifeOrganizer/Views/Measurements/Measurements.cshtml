@@ -1,0 +1,44 @@
+﻿@model List<HealthyLifeOrganizer.Models.Measurement> 
+
+@{
+    ViewBag.Title = "Measurements";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}          
+
+  @Html.Partial("~/Views/Shared/_InsertMeasurements.cshtml", new HealthyLifeOrganizer.Models.Measurement())          
+<table id="listofmeasurements">
+                    <thead>
+                        <th>ID</th>
+                        <th>Date</th>
+                        <th>Weight</th>
+                        <th>Waist</th>
+                        <th>Tummy</th>
+                        <th>Hips</th>
+                        <th>Thigh</th>
+                        <th>Calf</th>
+                        <th>Breast</th>
+                        <th>Biceps</th>
+                    </thead>
+                    <tbody>
+                        @if (Model!= null){
+                            foreach (var measurment in Model)
+                            {
+                                <tr>
+                                    <td>@measurment.MeasurementID</td>
+                                    <td>@measurment.MeasurementsDate.ToShortDateString()</td>
+                                    <td>@measurment.Weight</td>
+                                    <td>@measurment.Waist</td>
+                                    <td>@measurment.Tummy</td>
+                                    <td>@measurment.Hips</td>
+                                    <td>@measurment.Thigh</td>
+                                    <td>@measurment.Calf</td>
+                                    <td>@measurment.Breast</td>
+                                    <td>@measurment.Biceps</td>
+                                </tr>
+                            }
+                        }
+
+                    </tbody>
+                </table>
+            
+        

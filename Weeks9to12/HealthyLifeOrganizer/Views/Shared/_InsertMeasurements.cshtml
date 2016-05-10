@@ -1,0 +1,83 @@
+﻿
+@model HealthyLifeOrganizer.Models.Measurement
+
+<div class="demo-cards mdl-cell mdl-cell--4-col mdl-cell--8-col-tablet mdl-grid mdl-grid--no-spacing">
+    <div class="demo-options mdl-card mdl-color--green-100 mdl-shadow--2dp mdl-cell mdl-cell--4-col mdl-cell--3-col-tablet mdl-cell--12-col-desktop">
+        <div class="mdl-card__supporting-text mdl-color-text--blue-grey-50">
+            <h3>Add Measurements</h3>
+            @using (Html.BeginForm("AddMeasurement", "Measurements", FormMethod.Post, new { role = "form" }))
+            {
+
+                <ul>
+                    <li>
+                        <label for="datepicker" class="mdl-textfield mdl-js-textfield mdl-js-ripple-effect">
+
+                            @Html.TextBoxFor(m => m.MeasurementsDate, new { @class = "mdl-textfield__input", id = "datepicker", name = "date", spellcheck = "false" })
+                            <span class="mdl-textfield__label">Add date</span>
+                        </label>
+                    </li>
+                    <li>
+                        <label for="textfield1" class="mdl-textfield mdl-js-textfield mdl-js-ripple-effect">
+
+                            @Html.TextBoxFor(m => m.Weight, new { @class = "mdl-textfield__input", id = "textfield1", name = "weight", spellcheck = "false" })
+                            <span class="mdl-textfield__label">Add weight</span>
+                        </label>
+                    </li>
+                    <li>
+                        <label for="textfield2" class="mdl-textfield mdl-js-textfield mdl-js-ripple-effect">
+
+                            @Html.TextBoxFor(m => m.Waist, new { @class = "mdl-textfield__input", id = "textfield2", name = "waist", spellcheck = "false" })
+                            <span class="mdl-textfield__label">Add waist</span>
+                        </label>
+                    </li>
+                    <li>
+                        <label for="textfield3" class="mdl-textfield mdl-js-textfield mdl-js-ripple-effect">
+
+                            @Html.TextBoxFor(m => m.Tummy, new { @class = "mdl-textfield__input", id = "textfield3", name = "tummy", spellcheck = "false" })
+                            <span class="mdl-textfield__label">Add tummy</span>
+                        </label>
+                    </li>
+                    <li>
+                        <label for="textfield4" class="mdl-textfield mdl-js-textfield mdl-js-ripple-effect">
+
+                            @Html.TextBoxFor(m => m.Hips, new { @class = "mdl-textfield__input", id = "textfield4", name = "hips", spellcheck = "false" })
+                            <span class="mdl-textfield__label">Add hips</span>
+                        </label>
+                    </li>
+                    <li>
+                        <label for="textfield5" class="mdl-textfield mdl-js-textfield mdl-js-ripple-effect">
+
+                            @Html.TextBoxFor(m => m.Thigh, new { @class = "mdl-textfield__input", id = "textfield5", name = "thigh", spellcheck = "false" })
+                            <span class="mdl-textfield__label">Add thigh</span>
+                        </label>
+                    </li>
+                    <li>
+                        <label for="textfield6" class="mdl-textfield mdl-js-textfield mdl-js-ripple-effect">
+
+                            @Html.TextBoxFor(m => m.Calf, new { @class = "mdl-textfield__input", id = "textfield6", name = "calf", spellcheck = "false" })
+                            <span class="mdl-textfield__label">Add calf</span>
+                        </label>
+                    </li>
+                    <li>
+                        <label for="textfield7" class="mdl-textfield mdl-js-textfield mdl-js-ripple-effect">
+
+                            @Html.TextBoxFor(m => m.Breast, new { @class = "mdl-textfield__input", id = "textfield7", name = "breast", spellcheck = "false" })
+                            <span class="mdl-textfield__label">Add breast</span>
+                        </label>
+                    </li>
+                    <li>
+                        <label for="textfield8" class="mdl-textfield mdl-js-textfield mdl-js-ripple-effect">
+
+                            @Html.TextBoxFor(m => m.Biceps, new { @class = "mdl-textfield__input", id = "textfield8", name = "biceps", spellcheck = "false" })
+                            <span class="mdl-textfield__label">Add biceps</span>
+                        </label>
+                    </li>
+                </ul>
+                                <div class="mdl-card__actions mdl-card--border">
+                                    <input type="submit" href="#" class="mdl-button mdl-js-button mdl-js-ripple-effect" value="Add Measurements" />
+                                    <!--<a href="#" class="mdl-button mdl-js-button mdl-js-ripple-effect">Add Measurements</a>-->
+                                </div>
+            }
+        </div>
+    </div>
+</div>
